@@ -22,6 +22,7 @@ httpx
 langcodes[data]
 lxml
 motor
+setuptools
 mutagen
 markdown
 natsort
