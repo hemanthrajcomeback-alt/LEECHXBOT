@@ -43,3 +43,4 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
+setuptools<81
